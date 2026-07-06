@@ -1,18 +1,19 @@
-# Ana Ortega Pérez — Academic Website
+# Ana María Ortega Pérez — Academic Portfolio
 
-Static academic portfolio website for GitHub Pages.
+Ready for GitHub Pages.
 
-## How to publish on GitHub Pages
+## How to publish
 
-1. Upload all files and folders in this directory to your GitHub repository.
-2. Go to **Settings > Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Choose **main** and **/(root)**.
-5. Click **Save**.
+1. Create a GitHub repository.
+2. Upload all these files keeping the same structure.
+3. Go to Settings > Pages.
+4. Under Source, select `Deploy from a branch`.
+5. Select branch `main` and folder `/root`.
+6. Save.
 
-Your site will be published at a URL like:
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+## Replace these files
 
-## Updating the CV
+- `assets/profile.jpg` with your real photo.
+- `assets/Ana-Ortega-CV.pdf` with your CV.
 
-Replace `assets/cv/Ana_Ortega_Perez_CV_Public.pdf` with a new public CV using the same filename.
+If you do not upload `profile.jpg`, the page will use the placeholder image automatically.
