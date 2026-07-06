@@ -1,0 +1,16 @@
+./FILES_INCLUDED.txt
+./README.md
+./about.html
+./assets/css/styles.css
+./assets/cv/Ana_Ortega_Perez_CV_Public.pdf
+./assets/images/ana-ortega-portrait.jpg
+./assets/images/ana-ortega-profile.jpg
+./assets/images/books-hero.jpg
+./assets/js/script.js
+./contact.html
+./index.html
+./leadership.html
+./projects.html
+./publications.html
+./research.html
+./teaching.html
